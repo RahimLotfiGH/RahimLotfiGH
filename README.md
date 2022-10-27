@@ -1,19 +1,106 @@
-- 👋<strong> Hi, I’m RahimLotfi </strong>
+ <h1 style="text-align: center;">
+        👋 Hi, I’m Rahim Lotfi
+    </h1>
 
-I am Rahim Lotfi a computer science graduate and developer. With over seven years of experience as a developer, I have worked independently
-and with teams and gained a good knowledge of programming languages and the software development life cycle. I love writing well-organized 
-and clean code. Colleagues usually praise my clean easily-understood lines of code.
-I enjoy refactoring code to make things more clear and easily maintainable. 
-I am always open to feedback and never miss a chance to give ideas to improve the status quo. 
-I love everything about learning new things and have no attachment to any framework, language, etc. 
-To sum it up, an enthusiast learner, a neat coder, 
-a helpful team-worker, and a stubborn problem solver with a great sense of humor & flexibility.
+ <div>
+        <strong>
+            About
+        </strong>
+        <p style="text-align: justify;text-justify: inter-word;">
+            A computer science graduate and developer. With over seven years of experience as a developer, I have worked independently and with teams and gained a good knowledge of programming languages and the software development life cycle. I love writing well-organized and clean code. Colleagues usually praise my clean easily-understood lines of code. I enjoy refactoring code to make things more clear and easily maintainable. I am always open to feedback and never miss a chance to give ideas to improve the status quo. I love everything about learning new things and have no attachment to any framework, language, etc. To sum it up, an enthusiast learner, a neat coder, a helpful team-worker, and a stubborn problem solver with a great sense of humor & flexibility.
+        </p>
+    </div>
 
-The list of technologies and services I could help with:</br>
-c# .net asp.net-core asp.net-mvc webapi microservices entity-framework-core dapper Ado.net cqrs 
-domain-driven-design docker sql-server mongodb unit-testing xunit  visual-studio git TFS azure-devops 
-autofac serilog signalr grpc automapper MSMQ zeroMQ kafka rabbitmq design-patterns solid oop ODD
-Clean code Clean-architecture code refactoring  write-Framework Design-Patterns
+  <div>
+        <strong>
+          The list of technologies and services I could help with:
+      </strong>
+   <div>
+            <strong>Programming</strong>
+     <br />
+            <span> .Net (C#, VB) ,Java, C++, Delphi, VB6 </span> ,
+            <span>Windows Form</span> ,
+            <span>Asp.net Web form </span> ,
+            <span>Asp.net MVC</span> ,
+            <span>Asp.net Core</span> ,
+            <span>Object Oriented Programming </span>
+            <span>Object Oriented Design </span>
+            <span>Clean Code</span>
+            <span>Code Refactoring</span>
+            <span>Visual studio </span><span></span>
+            <span>DesignPatterns</span>
+            <span>write-Framework</span>
+            <span>WebApi</span> ,
+            <span>gRpc</span>
+            <span>Web Socket</span>
+            <span>Socket Programming</span>
+            <span>SignalR</span>
+            <span> Ado.net</span>
+            <span>Dapper</span>
+            <span>Entity Framework </span>
+            <span>Threading</span>
+            <span>Multi Tasking</span>
+            <span>Parallel programming </span>
+            <span>Sync and Async Commenication</span>
+            <span>OAut</span>
+            <span>JSON Web Token (JWT)</span>
+            <span>OAuth</span>
+            <span>unit-testing</span>
+            <span>xUnit</span>
+            <span>Docker</span>
+            <span>Serilog, NLog</span>
+            <span>git, TFS, azure-devops </span>
+     </div>
+   <br />
+
+  <div>
+     <strong>DataBase SQL & NOSQL</strong>    
+            <span>Microsoft SQL Server</span>
+            <span>Redis db</span>
+            <span>mongodb</span>
+            <span>Elastic Search</span>
+            <span>Microsoft Access</span>
+            <span>SQLite </span>
+            <span>Litedb</span>
+  </div>
+     <div>
+            <strong>Principles</strong>
+            <br />
+            <span>GRASP</span>
+            <span>SOLID</span>
+            <span>KISS</span>
+            <span>YAGNI </span>
+            <span>DRY</span>
+        </div>
+   <div>
+            <strong>Software architecture</strong>
+            <br />
+            <span>Clean architecture</span>
+            <span>Onion architecture</span>
+            <span>Microservices architecture </span>
+            <span>domain-driven-design</span>
+            <span> CQS - CQRS</span>
+
+  </div>
+  
+   <div>
+            <strong>Message Broker</strong>
+            <span>MSMQ </span>
+            <span>rabbitmq </span>
+            <span> kafka </span>
+            <span>zeroMQ</span>
+        </div>
+        <div>
+            <strong>FrontEnd</strong>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JavaScript</span>
+            <span>Jquery</span>
+            <span>Bootstrap</span>
+
+  </div>
+ </div>
+
 
 - 👀 I'm interested in software architecture
 - 🌱 I’m currently learning Microsoft Azure.
