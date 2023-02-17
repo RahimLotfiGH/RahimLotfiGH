@@ -7,7 +7,7 @@
             About
         </strong>
         <p style="text-align: justify;text-justify: inter-word;">
-            A computer science graduate and developer. With over seven years of experience as a developer, I have worked independently and with teams and gained a good knowledge of programming languages and the software development life cycle. I love writing well-organized and clean code. I enjoy refactoring code to make things more clear and easily maintainable. I am always open to feedback and never miss a chance to give ideas to improve the status quo. I love everything about learning new things and have no attachment to any framework, language, etc. To sum it up, an enthusiast learner, a neat coder, a helpful team-worker, and a stubborn problem solver with a great sense of humor & flexibility.
+            A computer science graduate and developer. With over seven years of experience as a developer, I have worked independently and with teams and gained a good knowledge of programming languages and the software development life cycle. I love writing well-organized and clean code. I enjoy refactoring code to make things more clear and easily maintainable. I am always open to feedback and never miss a chance to give ideas to improve the status quo. I love everything about learning new things and have no attachment to any framework, language, etc. To sum it up, an enthusiast learner, a neat coder, a helpful team-worker, and a stubborn problem solver with a great sense and flexibility.
         </p>
     </div>
 
@@ -105,7 +105,8 @@
 - 👀 I'm interested in software architecture
 - 🌱 I’m currently learning Microsoft Azure.
 - 💞️ I’m looking to collaborate on .NET Project.
-- 💞️ <b>I’m looking a new job as a .NET Developer.</b>
+- 💞️ <b>💞️ I’m looking for a new job as a .NET Developer.</b>
+ -👀 I am always looking for new challenges!
 - 📫 How to reach me  <a href='https://www.linkedin.com/in/rahim-lotfi-4b34508a/'>LinkedIn</a>, <a href='https://www.c-sharpcorner.com/members/rahim-lotfi4'>c-sharpcorner</a>
 
 <b>ABILITIES</b></br>
