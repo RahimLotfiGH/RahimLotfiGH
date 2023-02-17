@@ -42,7 +42,6 @@
             <span>Multi Tasking</span>
             <span>Parallel programming </span>
             <span>Sync and Async Commenication</span>
-            <span>OAut</span>
             <span>JSON Web Token (JWT)</span>
             <span>OAuth</span>
             <span>unit-testing</span>
