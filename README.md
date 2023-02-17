@@ -106,7 +106,7 @@
 - 🌱 I’m currently learning Microsoft Azure.
 - 💞️ I’m looking to collaborate on .NET Project.
 - 💞️ <b>💞️ I’m looking for a new job as a .NET Developer.</b>
- -👀 I am always looking for new challenges!
+- 👀 I am always looking for new challenges!
 - 📫 How to reach me  <a href='https://www.linkedin.com/in/rahim-lotfi-4b34508a/'>LinkedIn</a>, <a href='https://www.c-sharpcorner.com/members/rahim-lotfi4'>c-sharpcorner</a>
 
 <b>ABILITIES</b></br>
