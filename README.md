@@ -102,7 +102,6 @@
 
 
 - 👀 I'm interested in software architecture
-- 🌱 I’m currently learning Microsoft Azure.
 - 💞️ I’m looking to collaborate on .NET Project.
 - 💞️ <b>💞️ I’m looking for a new job as a .NET Developer.</b>
 - 👀 I am always looking for new challenges!
